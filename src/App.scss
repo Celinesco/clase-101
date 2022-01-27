@@ -1,0 +1,29 @@
+.contenedor-formulario {
+  width: 300px;
+  background-color: blanchedalmond;
+  padding: 60px;
+  border: 3px solid black;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  padding: 100px;
+  background-color: darkred;
+}
+
+input, select {
+  margin-left: 10px
+}
+
+.texto-animal {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60px;
+  border: 2px solid rgb(0, 0, 0);
+  border-radius: 100%;
+  background-color: rgb(153, 170, 202);
+  height: 60px;
+}
+
